@@ -1,0 +1,47 @@
+---
+title: "LANDFIRE's Open Office Hour Resouces"
+author: The Nature Conservancy's LANDFIRE team
+date: "2021-01-26"
+output:
+  memor::pdf_memo:
+    logo: "logo.jpg"
+    logo_height: 2.5cm
+    use_profile: false
+    company:
+      name: LANDFIRE
+      address: www.landfire.gov
+      e-mail: landfire@tnc.org
+    short_title: Obtaining LANDFIRE data  
+    confidential: false
+---
+# LANDFIRE Open Office Hours
+
+LANDFIRE is a multi-partner program producing and delivering over two dozen datasets and hundreds of ecological models that depict vegetation and fire conditions, past and present.  These monthly LANDFIRE Office Hours provide a place to learn a LANDFIRE-based skill, discuss LANDFIRE data use and build community.
+
+
+# Obtaining LANDFIRE spatial data
+
+There are multiple ways to obtain LANDFIRE spatial data-we discussed two main ways:
+
+1. [Downloading mosaics](https://www.landfire.gov/version_comparison.php).  If you have plenty of storage space, work on a large landscape, or work on many landscapes we recommend downloading the mosaics, which are full extent datasets for the Lower 48 states, Alaska and Hawaii (selected and downloaded separately). For example, we will download the Existing Vegetation Type mosaic for the lower 48 states and clip it as needed as opposed to using the Data Download Site for each landscape we are working on.
+
+2. [Using the LANDFIRE Data Distribution Site](https://www.landfire.gov/viewer/). If you have limited storage space, a small number of landscapes, and/or would like to download several datasets at once for them, we recommend this method.
+
+3. For a complete exploration of ways to download LANDFIRE data visit [Get Data](https://www.landfire.gov/viewer/).
+
+# From your questions and discussion
+
+INSERT AFTER OOH
+
+# General LANDFIRE links
+We provide several ways to learn about LANDFIRE including:
+
+* Main [LANDFIRE Website](www.landfire.gov)
+* [LANDFIRE on Twitter](https://twitter.com/nature_LANDFIRE)
+* On [YouTube](https://www.youtube.com/channel/UCDPBP2fRXsfSBNjnLrzqxUw)
+* e-mail us at landfire@tnc.org
+* To receive LANDFIRE product news, data updates, resource recommendations, and occasional cartoons every month sign up [here](https://landfire.us9.list-manage.com/subscribe?u=25aeabb346a09aaf1c528f007&id=2f025aaae2)
+
+
+
+

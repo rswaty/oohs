@@ -3,7 +3,7 @@ title: "LANDFIRE's Open Office Hour Resouces"
 author: The Nature Conservancy's LANDFIRE team
 date: "January 26, 2021"
 output:
-  memor::pdf_memo:
+  memo::pdf_memo:
     logo: "logo.jpg"
     logo_height: 2.5cm
     use_profile: false

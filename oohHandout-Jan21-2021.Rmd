@@ -30,12 +30,12 @@ There are multiple ways to obtain LANDFIRE spatial data-we discussed two main wa
 3. For a complete exploration of ways to download LANDFIRE data visit [Get Data](https://www.landfire.gov/viewer/).
 
 # From your questions and discussion, January 2021
-To listen to the entire conversation visit our YouTube channel linked to below.  There were a few followup items we wanted to address here:
+To listen to the entire conversation visit our [YouTube channel](https://youtu.be/zlXDjtJPYgw). There were a few followup items we wanted to address here:
 
 * During the demo of the [LANDFIRE Data Viewer and Distribution Site](https://www.landfire.gov/viewer/viewer.html) participants noted the useful "Modify" button that becomes available once you select the datasets of interest, and your geography for downloads.  Once you select "Modify" on the Request Summary page you can take actions such as change the Output Projection and Datum from NAD 1983 Albers (standard) to "Best-Fit UTM (NAD83 Datum) which will improve performance in some instances. We will be providing more information on this during an upcoming LANDFIRE postcard.
 * As you may know LANDFIRE is continually updating data and improving processes.  While the schedule is at times a bit fluid, visit the [LANDFIRE Schedule](https://www.landfire.gov/lf_schedule.php) page for more information on versions and release schedule.  Check back periodically and watch the postcard for up to date information.
 * There was a question around submitting information to LANDFIRE.  This was much appreciated as data quality is largely driven by plots and feedback.  Please visit the [Reference Data](https://www.landfire.gov/participate_refdata.php) and also click the "Contribute Data" tab on www.landfire.gov for more information.
-* The answer to the Event ID and Point ID question provided in the video was not correct. Contact the LF Helpdesk for clarification helpdesk@landfire.gov.
+* The answer to the Event ID and Point ID question provided in the video (asked at 22:24) was not correct. Contact the LF Helpdesk for clarification helpdesk@landfire.gov.
 
 
 # General LANDFIRE links

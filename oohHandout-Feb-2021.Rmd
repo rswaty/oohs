@@ -1,0 +1,43 @@
+---
+title: "LANDFIRE's Open Office Hour Resouces"
+author: The Nature Conservancy's LANDFIRE team
+date: "February 25, 2021"
+output:
+  memor::pdf_memo:
+    logo: "logo.jpg"
+    logo_height: 2.5cm
+    use_profile: false
+    company:
+      name: LANDFIRE
+      address: www.landfire.gov
+      e-mail: landfire@tnc.org
+    short_title: Obtaining LANDFIRE data  
+    confidential: false
+---
+# LANDFIRE Open Office Hours
+
+LANDFIRE is a multi-partner program producing and delivering over two dozen datasets and hundreds of ecological models that depict vegetation and fire conditions, past and present.  These monthly LANDFIRE Office Hours provide a place to learn a LANDFIRE-based skill, discuss LANDFIRE data use and build community.
+
+
+# LANDFIRE product use in wildlife research
+LANDFIRE spatial data and Biophysical Settings descriptions have been used in projects focused on wildlife of almost any size, ranging from insects to bison.  *Some* of the ways researchers use LANDFIRE products include:
+
+* Simply masking an area of interest by a particular vegetation type, often using LANDFIRE as one of many datasets (Pearman-Gillman et al., 2020)[https://pdfs.semanticscholar.org/5d4b/ca01dbfdfebea6288e14884d10b9f1637bfc.pdf]
+* Reclassifying LANDFIRE Existing Vegetation Types to match habitat selection needs (Burdette et al., 2010)[https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1890/ES10-00005.1]
+* Inputs to machine learning methods (Shoemaker et al., 2018)[https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3936]
+
+
+
+
+# General LANDFIRE links
+We provide several ways to learn about LANDFIRE including:
+
+* Main [LANDFIRE Website](www.landfire.gov)
+* [LANDFIRE on Twitter](https://twitter.com/nature_LANDFIRE)
+* On [YouTube](https://www.youtube.com/channel/UCDPBP2fRXsfSBNjnLrzqxUw)
+* e-mail us at landfire@tnc.org
+* To receive LANDFIRE product news, data updates, resource recommendations, and occasional cartoons every month sign up [here](https://landfire.us9.list-manage.com/subscribe?u=25aeabb346a09aaf1c528f007&id=2f025aaae2)
+
+
+
+

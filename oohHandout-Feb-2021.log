@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.22)  22 FEB 2021 09:30
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.2.22)  22 FEB 2021 10:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**oohHandout-Jan-2021.tex
-(./oohHandout-Jan-2021.tex
+**oohHandout-Feb-2021.tex
+(./oohHandout-Feb-2021.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (c:/Users/RandySwaty/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.
@@ -812,8 +812,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitdp@description=\count324
 )
 \tbspace=\skip93
-(./oohHandout-Jan-2021.aux)
-\openout1 = `oohHandout-Jan-2021.aux'.
+(./oohHandout-Feb-2021.aux)
+\openout1 = `oohHandout-Feb-2021.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 215.
 LaTeX Font Info:    ... okay on input line 215.
@@ -903,9 +903,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 215.
 LaTeX Info: Redefining \pageref on input line 215.
 LaTeX Info: Redefining \nameref on input line 215.
-(./oohHandout-Jan-2021.out) (./oohHandout-Jan-2021.out)
+(./oohHandout-Feb-2021.out) (./oohHandout-Feb-2021.out)
 \@outlinefile=\write3
-\openout3 = `oohHandout-Jan-2021.out'.
+\openout3 = `oohHandout-Feb-2021.out'.
 
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 215.
@@ -928,66 +928,66 @@ Package caption Info: End \AtBeginDocument code.
 File: logo.jpg Graphic file (type bmp)
 <logo.jpg>
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
-81.
+45.
 (c:/Users/RandySwaty/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-81.
+45.
 (c:/Users/RandySwaty/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-281.
+245.
 
 (c:/Users/RandySwaty/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-281.
+245.
 
 (c:/Users/RandySwaty/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 281.
+(Font)              <10.95> on input line 245.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 281.
+(Font)              <8> on input line 245.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 281.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 281
+(Font)              <6> on input line 245.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 245
 .
 
 (c:/Users/RandySwaty/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa
 .fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 281
+LaTeX Font Info:    Trying to load font information for U+msb on input line 245
 .
 
 (c:/Users/RandySwaty/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb
 .fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-]
+)
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 297.
+(Font)              <9> on input line 276.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 297.
+(Font)              <5> on input line 276.
+[1
 
+] 
 AED: lastpage setting LastPage
-[2] (./oohHandout-Jan-2021.aux)
-Package rerunfilecheck Info: File `oohHandout-Jan-2021.out' has not changed.
-(rerunfilecheck)             Checksum: 55F6446D2DC7523B6B4E8EE29B280373;309.
+[2] (./oohHandout-Feb-2021.aux)
+Package rerunfilecheck Info: File `oohHandout-Feb-2021.out' has not changed.
+(rerunfilecheck)             Checksum: 116933400CF05E7485911ADDF64FD4F6;224.
  ) 
 Here is how much of TeX's memory you used:
- 19942 strings out of 478931
- 353717 string characters out of 5864964
- 723373 words of memory out of 5000000
- 39449 multiletter control sequences out of 15000+600000
+ 19939 strings out of 478931
+ 353632 string characters out of 5864964
+ 725208 words of memory out of 5000000
+ 39446 multiletter control sequences out of 15000+600000
  424147 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 98i,12n,117p,387b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,12n,117p,387b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on oohHandout-Jan-2021.pdf (2 pages).
+Output written on oohHandout-Feb-2021.pdf (2 pages).

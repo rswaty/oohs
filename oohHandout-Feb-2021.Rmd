@@ -20,13 +20,19 @@ LANDFIRE is a multi-partner program producing and delivering over two dozen data
 
 
 # LANDFIRE product use in wildlife research
-LANDFIRE spatial data and Biophysical Settings descriptions have been used in projects focused on wildlife of almost any size, ranging from insects to bison.  *Some* of the ways researchers use LANDFIRE products include:
+LANDFIRE spatial data and Biophysical Settings descriptions have been used in projects focused on wildlife of almost any size, ranging from insects to bison.  
 
-* Simply masking an area of interest by a particular vegetation type, often using LANDFIRE as one of many datasets (Pearman-Gillman et al., 2020)[https://pdfs.semanticscholar.org/5d4b/ca01dbfdfebea6288e14884d10b9f1637bfc.pdf]
-* Reclassifying LANDFIRE Existing Vegetation Types to match habitat selection needs (Burdette et al., 2010)[https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1890/ES10-00005.1]
-* Inputs to machine learning methods (Shoemaker et al., 2018)[https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3936]
+*Some* of the ways researchers use LANDFIRE products include:
+
+* Combining LANDFIRE datasets to build habitat models, as in this paper examining Northern Goshawk landscape use ([Bruggemand et al., 2014](https://meridian.allenpress.com/rapt/article/48/3/228/436481/Factors-Related-to-Northern-Goshawk-Landscape-Use)).
+* Mapping a particular vegetation type, using LANDFIRE as one of many datasets ([Pearman-Gillman et al., 2020](https://pdfs.semanticscholar.org/5d4b/ca01dbfdfebea6288e14884d10b9f1637bfc.pdf)).
+* Reclassifying LANDFIRE Existing Vegetation Types to match habitat selection needs ([Burdette et al., 2010](https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1890/ES10-00005.1)).
+* Extracting particular vegetation types as inputs for habitat models including machine learning methods ([Shoemaker et al., 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3936)).
+
+For this month's open office hour we focused on the BRAT [Beaver Restoration Assessment Tool](https://brat.riverscapes.xyz/), inspired partially by this article ["How beavers became North America's best firefighter"](https://www.nationalgeographic.com/animals/article/beavers-firefighters-wildfires-california-oregon#:~:text=This%20beaver%2Ddammed%20wetland%20in,for%20other%20species%20during%20wildfires.), by Ben Goldfarb (National Geographic) and also by the great work of the [Ecogeomorphology and Topographic Analysis Lab](http://etal.joewheaton.org/) at Utah State University.
 
 
+# Questions and topics discussed:
 
 
 # General LANDFIRE links

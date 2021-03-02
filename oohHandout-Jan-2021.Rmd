@@ -1,7 +1,7 @@
 ---
 title: "LANDFIRE's Open Office Hour Resouces"
 author: The Nature Conservancy's LANDFIRE team
-date: "January 26, 2021"
+date: "February 25, 2021"
 output:
   memor::pdf_memo:
     logo: "logo.jpg"
@@ -10,32 +10,56 @@ output:
     company:
       name: LANDFIRE
       address: www.landfire.gov
-      e-mail: landfire@tnc.org
-    short_title: Obtaining LANDFIRE data  
+      e-mail: technical questions - helpdesk@landfire.gov; general questions - meg.dettenmaier@tnc.org
+    short_title: Wildlife and LANDFIRE data  
     confidential: false
 ---
 # LANDFIRE Open Office Hours
 
-LANDFIRE is a multi-partner program producing and delivering over two dozen datasets and hundreds of ecological models that depict vegetation and fire conditions, past and present.  These monthly LANDFIRE Office Hours provide a place to learn a LANDFIRE-based skill, discuss LANDFIRE data use and build community.
+LANDFIRE is a multi-partner program producing and delivering over two dozen datasets and hundreds of ecological models that depict vegetation and fire conditions, past and present. These monthly LANDFIRE Office Hours provide a place to learn a LANDFIRE-based skill, discuss LANDFIRE data use and build community.
+
+[Watch the February 25, (Informal) Open Office Hours](https://youtu.be/p4ls0uRebNY)
+
+# LANDFIRE product use in wildlife research
+
+LANDFIRE spatial data and Biophysical Settings descriptions have been used in projects focused
+on wildlife of almost any size, ranging from insects to bison.
+Some of the ways researchers use LANDFIRE products include:
+
+• Combining LANDFIRE datasets to build habitat models, as in this paper examining Northern
+Goshawk landscape use [(Bruggemand et al., 2014)](https://meridian.allenpress.com/rapt/article/48/3/228/436481/Factors-Related-to-Northern-Goshawk-Landscape-Use)
+
+• Mapping a particular vegetation type, using LANDFIRE as one of many datasets [(Pearman-
+Gillman et al., 2020)](https://pdfs.semanticscholar.org/5d4b/ca01dbfdfebea6288e14884d10b9f1637bfc.pdf).
+
+• Reclassifying LANDFIRE Existing Vegetation Types to match habitat selection needs [(Burdette
+et al., 2010)](https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1890/ES10-00005.1).
+
+• Extracting particular vegetation types as inputs for habitat models including machine learning
+methods [(Shoemaker et al., 2018)](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3936).
+
+For this month’s open office hour we focused on the BRAT [Beaver Restoration Assessment Tool](https://brat.riverscapes.xyz/),
+inspired partially by this article “[How beavers became North America’s best firefighter](https://www.nationalgeographic.com/animals/article/beavers-firefighters-wildfires-california-oregon#:~:text=This%20beaver%2Ddammed%20wetland%20in,for%20other%20species%20during%20wildfires.)”, by Ben
+Goldfarb (National Geographic) and also by the great work of the [Ecogeomorphology and Topographic
+Analysis Lab](http://etal.joewheaton.org/) at Utah State University.
 
 
-# Obtaining LANDFIRE spatial data
 
-There are multiple ways to obtain LANDFIRE spatial data-we discussed two main ways:
+# From our conversation. [Watch](https://youtu.be/p4ls0uRebNY)
 
-1. [Downloading mosaics](https://www.landfire.gov/version_comparison.php).  If you have plenty of storage space, work on a large landscape, or work on many landscapes we recommend downloading the mosaics, which are full extent datasets for the Lower 48 states, Alaska and Hawaii (selected and downloaded separately). For example, we will download the Existing Vegetation Type mosaic for the lower 48 states and clip it as needed as opposed to using the Data Download Site for each landscape we are working on.
+1. Timestamp: 11:15 min., Sam Cox using NAIP imagery to classify conifers, does LF exist in discrete sets by time period? Could he look at LF as it was 4-5 yrs ago? Can we use it to look at change over time?
 
-2. [Using the LANDFIRE Data Distribution Site](https://www.landfire.gov/viewer/). If you have limited storage space, a small number of landscapes, and/or would like to download several datasets at once for them, we recommend this method.
+• Utah [BRAT](https://brat.riverscapes.xyz/) team has used LF data in this way, will we go the same route as [Rangeland Analysis Platform](https://rangelands.app/)?
 
-3. For a complete exploration of ways to download LANDFIRE data visit [Get Data](https://www.landfire.gov/viewer/).
+• Timestamp: 19:15 min., Qu: Is disturbed only burned? (A: No) [Disturbance layers](https://www.landfire.gov/disturbance.php)
 
-# From your questions and discussion, January 2021
-To listen to the entire conversation visit our [YouTube channel](https://youtu.be/zlXDjtJPYgw). There were a few followup items we wanted to address here:
+2. Version comparison document is coming out soon
 
-* During the demo of the [LANDFIRE Data Viewer and Distribution Site](https://www.landfire.gov/viewer/viewer.html) participants noted the useful "Modify" button that becomes available once you select the datasets of interest, and your geography for downloads.  Once you select "Modify" on the Request Summary page you can take actions such as change the Output Projection and Datum from NAD 1983 Albers (standard) to "Best-Fit UTM (NAD83 Datum) which will improve performance in some instances. We will be providing more information on this during an upcoming LANDFIRE postcard.
-* As you may know LANDFIRE is continually updating data and improving processes.  While the schedule is at times a bit fluid, visit the [LANDFIRE Schedule](https://www.landfire.gov/lf_schedule.php) page for more information on versions and release schedule.  Check back periodically and watch the postcard for up to date information.
-* There was a question around submitting information to LANDFIRE.  This was much appreciated as data quality is largely driven by plots and feedback.  Please visit the [Reference Data](https://www.landfire.gov/participate_refdata.php) and also click the "Contribute Data" tab on www.landfire.gov for more information.
-* The answer to the Event ID and Point ID question provided in the video (asked at 22:24) was not correct. Contact the LF Helpdesk for clarification helpdesk@landfire.gov.
+3. Plans are for future delivery more frequently with less latency (plans for 2019L)
+
+4. Timestamp: 23:40 min., Sean McEldery, telling disturbance "story" by sequencing LANDFIRE data
+
+5. Timestamp: 31:47 min., Mohamad Alipour: clarification on what's included and what's not included in Remap (specifically during intermediate years) [Lidar in Remap](https://www.landfire.gov/documents/5813-SiviLaser-JLong.pdf). Contact Kori Blankenship with more questions: kblankenship@tnc.org
 
 
 # General LANDFIRE links
